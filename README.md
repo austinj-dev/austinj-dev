@@ -1,14 +1,9 @@
 <!-- DIGISPECTIVE THEME: Blue (#1B3B6F), Navy (#0F1C2E), Gold (#F1A208), White (#FFFFFF) -->
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?size=36&duration=2800&pause=1100&vCenter=true&center=true&width=1200&height=90&color=F1A208
-    &lines=Austin+J.+%7C+SaaS+Engineer+%26+Automation+Architect;
-    Founder+of+DigiSpective+%7C+Horizon+Ops+%7C+Aivryx;
-    Building+Modern+SaaS+Platforms+%2B+AI+Ops+Systems;
-    Full-Stack+Development+%7C+Automation+%7C+LLM+Agents" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&pause=1200&vCenter=true&color=F1A208&center=true&width=900&lines=Austin%20J.%20%7C%20AI%20Ops%20Engineer%20%26%20Automation%20Architect;Founder%20of%20DigiSpective%20%7C%20HorizonOps%20%7C%20Aivryx;Building%20Next-Gen%20SaaS%20%2B%20AI%20Automation%20Platforms;Full-Stack%20Engineer%20%E2%80%94%20Systems%20%7C%20Workflows%20%7C%20LLMs" />
 </p>
+
 
 ---
 
@@ -17,7 +12,7 @@
 </p>
 
 ## 👋 Hey — I'm Austin  
-I'm an **AI Ops Engineer**, **Automation Architect**, and **Founder of DigiSpective & Aivryx**, building high-performance AI-driven business ecosystems.
+I'm an **AI Ops Engineer**, **Automation Architect**, and **Founder of DigiSpective, Horizon Ops & Aivryx**, building high-performance AI-driven business ecosystems.
 
 I specialize in:
 - Multi-tenant SaaS (Supabase + Stripe)
