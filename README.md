@@ -1,7 +1,7 @@
 <!-- DIGISPECTIVE THEME: Blue (#1B3B6F), Navy (#0F1C2E), Gold (#F1A208), White (#FFFFFF) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&pause=1200&vCenter=true&color=F1A208&center=true&width=900&lines=Austin+J.+%7C+AI+Ops+Engineer+%26+Automation+Architect;Founder+of+DigiSpective+%7C+Aivryx;Building+Next-Gen+AI+Agent+Workflows;Full-Stack+%2B+Automation+%2B+LLM+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&pause=1200&vCenter=true&color=F1A208&center=true&width=900&lines= Austin+J.+%7C+AI+Ops+Engineer+%26+Automation+Architect;Founder+of+DigiSpective+%7C+Aivryx;Building+Next-Gen+AI+Agent+Workflows;Full-Stack+%2B+Automation+%2B+LLM+Systems" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ https://digispective.com
 ### 🧩 **Horizon Ops — Unified Ops SaaS Platform**  
 https://horizonops.online
 
-### ⚡ **Aivryx — AI Ops Automation Platform**  
+### ⚡ **Aivryx — AI Ops Automation SaaS Platform**  
 https://aivryx.com
 
 ### 💧 **Raintree Irrigation — Scheduling Platform**  
