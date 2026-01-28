@@ -1,7 +1,7 @@
 <!-- DIGISPECTIVE THEME: Blue (#1B3B6F), Navy (#0F1C2E), Gold (#F1A208), White (#FFFFFF) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/austinj-dev/austinj-dev/main/assets/c2a_saas_banner.svg" />
+  <img src="https://raw.githubusercontent.com/austinj-dev/austinj-dev/main/c2a_saas_banner.svg" />
 </p>
 
 
