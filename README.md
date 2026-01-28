@@ -1,7 +1,13 @@
 <!-- DIGISPECTIVE THEME: Blue (#1B3B6F), Navy (#0F1C2E), Gold (#F1A208), White (#FFFFFF) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=3000&pause=1200&vCenter=true&color=F1A208&center=true&width=900&lines= Austin+J.+%7C+AI+Ops+Engineer+%26+Automation+Architect;Founder+of+DigiSpective+%7C+Aivryx;Building+Next-Gen+AI+Agent+Workflows;Full-Stack+%2B+Automation+%2B+LLM+Systems" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?size=36&duration=2800&pause=1100&vCenter=true&center=true&width=1200&height=90&color=F1A208
+    &lines=Austin+J.+%7C+SaaS+Engineer+%26+Automation+Architect;
+    Founder+of+DigiSpective+%7C+Horizon+Ops+%7C+Aivryx;
+    Building+Modern+SaaS+Platforms+%2B+AI+Ops+Systems;
+    Full-Stack+Development+%7C+Automation+%7C+LLM+Agents" 
+  />
 </p>
 
 ---
