@@ -76,7 +76,7 @@ https://github.com/austinj-dev/qwen-code-agents-toolpack
 
 ---
 
-# 📊 GitHub Stats (Dark Mode Ready)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=austinj-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
