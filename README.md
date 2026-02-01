@@ -24,7 +24,7 @@ I specialize in:
 
 ---
 
-# 🎨 **Tech Stack — DigiSpective Theme**
+# 🎨 **Tech Stack**
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B3B6F?logo=javascript&logoColor=F1A208)
