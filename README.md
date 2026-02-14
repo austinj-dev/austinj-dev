@@ -4,7 +4,7 @@
 </p>
 
 ## 👋 Hey — I'm Austin  
-I'm an **AI Ops Engineer**, **Automation Architect**, and **Founder of DigiSpective, Horizon Ops & Aivryx**, building high-performance AI-driven business ecosystems.
+I'm an **AI Ops Engineer**, **Automation Architect**, and **Founder of DigiSpective, Horizon Ops**, building high-performance AI-driven business ecosystems.
 
 I specialize in:
 - Multi-tenant SaaS (Supabase + Stripe)
@@ -53,10 +53,7 @@ https://digispective.com
 ### 🧩 **Horizon Ops — Unified Ops SaaS Platform**  
 https://horizonops.online
 
-### ⚡ **Aivryx — AI Ops Automation SaaS Platform**  
-https://aivryx.com
-
-### 💧 **Raintree Irrigation — Scheduling Platform**  
+### 💧 **Raintree Irrigation — Scheduling Platform & Marketing Website**  
 https://raintreeirrigation.com
 
 ### 🤖 **Qwen Code Advisory + Implementation Agents v2**  
