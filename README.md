@@ -54,7 +54,7 @@ https://sovyren.com
 https://usevera.cloud
 
 ### 🧩 **Essentials by Sovyren — Essential Software for Modern Business**  
-https://usevera.cloud
+https://useessentials.cloud
 
 ### 💧 **Raintree Irrigation — Scheduling Platform & Marketing Website**  
 https://raintreeirrigation.com
