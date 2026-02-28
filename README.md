@@ -4,7 +4,7 @@
 </p>
 
 ## 👋 Hey — I'm Austin  
-I'm an **AI Ops Engineer**, **Automation Architect**, and **Founder of DigiSpective, Horizon Ops**, building high-performance AI-driven business ecosystems.
+I'm an **AI Ops Engineer**, **Automation Architect**, and **Founder of Sovyren**, building high-performance AI-driven business ecosystems.
 
 I specialize in:
 - Multi-tenant SaaS (Supabase + Stripe)
@@ -47,11 +47,14 @@ I specialize in:
 
 # 🚀 **Featured Projects**
 
-### 🔵 **DigiSpective — Agency Marketing Website**  
-https://digispective.com
+### 🔵 **Sovyren — Research & Development**  
+https://sovyren.com
 
-### 🧩 **Horizon Ops — Unified Ops SaaS Platform**  
-https://horizonops.online
+### 🧩 **Vera by Sovyren — The Future of Business Operations**  
+https://usevera.cloud
+
+### 🧩 **Essentials by Sovyren — Essential Software for Modern Business**  
+https://usevera.cloud
 
 ### 💧 **Raintree Irrigation — Scheduling Platform & Marketing Website**  
 https://raintreeirrigation.com
@@ -98,7 +101,7 @@ https://github.com/austinj-dev/qwen-code-agents-toolpack
 
 # 📬 Contact
 
-📧 austin@digispective.com
-🌐 https://digispective.com
+📧 austin_johnnic@sovyren.com
+🌐 https://sovyren.com
 
 ---
