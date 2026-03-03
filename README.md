@@ -59,6 +59,12 @@ https://useessentials.cloud
 ### 💧 **Raintree Irrigation — Scheduling Platform & Marketing Website**  
 https://raintreeirrigation.com
 
+### 🤖 **Absolute One-Shot Implementation - Claude Code Skill**
+https://github.com/austinj-dev/absolute-one-shot-implementation-claude-code-skill
+
+### 🤖 **AI Native App Builders / Vibe Coding Platforms Absolute One-Shot Process - Prompts**
+https://github.com/austinj-dev/ai-native-app-builders-vibe-coding-platforms-absolute-one-shot
+
 ### 🤖 **Qwen Code Advisory + Implementation Agents v2**  
 https://github.com/austinj-dev/qwen-code-agents-toolpack-v2
 
