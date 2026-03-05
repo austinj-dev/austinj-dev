@@ -22,7 +22,7 @@ Building high-performance, AI robust business ecosystems.
 
 | Project | Description |
 | :--- | :--- |
-| **[Sovyren](https://sovyren.com)** | AI business automation and strategy consultancy. |
+| **[Sovyren](https://sovyren.com)** | R&D lab for applied AI, software systems, and automation  |
 | **[Vera](https://usevera.cloud)** | High-performance operations management platform. | 
 | **[Essentials](https://useessentials.cloud)** | Productivity tools for modern businesses. |
 | **[Raintree Irrigation](https://raintreeirrigation.com)** | Scheduling and management platform for service providers. |
