@@ -13,7 +13,7 @@ Building high-performance, AI robust business ecosystems.
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white ) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white) |
 | **Backend/AI** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Automation** | ![n8n](https://img step/badge/n8n-FF6 close?style=flat-square&logo=n8n&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CFF?style=flat-square&logo=stripe&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white ) ![Stripe](https://img.shields.io/badge/Stripe-008CFF?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
@@ -37,6 +37,7 @@ Building high-performance, AI robust business ecosystems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinj-dev&layout=compact&theme=omni&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 ---
