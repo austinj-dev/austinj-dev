@@ -17,7 +17,7 @@ Building high-performance, AI robust business ecosystems.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Products / Services
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -31,12 +31,13 @@ Building high-performance, AI robust business ecosystems.
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aust delivered-dev&show_icons=true&theme=omni&hide_border=true" alt="Austin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app served/api?username=austinj-dev&show_icons=true&theme=omni&hide_border=true" alt="Austin's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinj-dev&layout=compact&theme=omni&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
