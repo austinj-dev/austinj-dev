@@ -4,6 +4,11 @@
 
 ---
 
+
+| **[Professional Resume](https://github.com/austinj-dev/Resume)** |
+| :--- |
+
+
 ### Tech Stack
 
 | Category | Tools & Technologies |
