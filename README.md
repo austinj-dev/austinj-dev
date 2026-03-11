@@ -36,6 +36,8 @@
 | **[Applied Engineering Skill](https://github.com/austinj-dev/Applied-Engineering-Skill)** | Architecting, building, and deploying full systems rapidly with structured reasoning and AI-accelerated execution. |
 | **[Qwen Code Agents Toolpack 2.0](https://github.com/austinj-dev/qwen-code-agents-toolpack-v2)** | Qwen Code CLI Advisory + Implementation Agents Toolpack. |
 | **[Qwen Code Agents Toolpack 1.0](https://github.com/austinj-dev/qwen-code-agents-toolpack)** | Qwen Code CLI Advisory Agents Toolpack. |
+| **[Resume Engineer Skill](https://github.com/austinj-dev/Resume-Engineer-Skill)** | Professional resume creation skill for Claude Code with 8-stage methodology framework. |
+
 
 ---
 
