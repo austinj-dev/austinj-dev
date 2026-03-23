@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | **[Sovyren](https://sovyren.com)** | R&D lab for applied AI, software systems, and automation. |  |
 | **[Vera by Sovyren](https://usevera.cloud)** | High-performance operations management platform. (SaaS) | Launching Soon |
-| **[Essentials by Sovyren](https://useessentials.cloud)** | Productivity tools for modern businesses. (SaaS) | Launching Soon |
+| **[Origin Suite by Sovyren](https://useorigin.cloud)** | Productivity tools for modern businesses. (SaaS) | Launching Soon |
 
 ---
 
