@@ -28,9 +28,8 @@
 | Product | Description |  |
 | :--- | :--- | :--- |
 | **[Sovyren](https://sovyren.com)** | R&D lab for applied AI, software systems, and automation. |  |
+| **[Sovyren Solutions](https://solutions.sovyren.com)** | Sovyren is building the complete ecosystem of business software — scheduling, invoicing, AI automation, and more. One company. One platform. | Launching Soon |
 | **[Vera by Sovyren](https://usevera.cloud)** | High-performance operations management platform. (SaaS) | Launching Soon |
-| **[Origin Suite by Sovyren](https://useorigin.cloud)** | Productivity tools for modern businesses. (SaaS) | Launching Soon |
-| **[Flux by Sovyren](https://use-flux.cloud)** | multi-tenant SaaS platform and open-core MCP server for AI-native diagram creation, collaboration, and organizational knowledge visualization. (SaaS + Open-Core MCP server) | Launching Soon |
 
 ---
 
