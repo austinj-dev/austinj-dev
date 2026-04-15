@@ -28,7 +28,7 @@
 | Product | Description |  |
 | :--- | :--- | :--- |
 | **[Sovyren](https://sovyren.com)** | R&D lab for applied AI, software systems, and automation. |  |
-| **[Sovyren Labs Solutions](https://solutions.sovyren.com)** | Sovyren is building the complete ecosystem of business software — scheduling, invoicing, AI automation, and more. | Launching Soon |
+| **[Sovyren Labs Solutions](https://solutions.sovyren.com)** | Sovyren is building the complete ecosystem of business software — scheduling, invoicing, AI automation, and more. | |
 | **[agint](https://agint.app)** | Sovyren's proprietary AI model line, purpose-built for enterprise operations. | Launching Soon |
 | **[agints](https://agints.app)** | Sovyren's AI agent platform for enterprise operations, built on two core products: Colleagues and Studio. | Launching Soon |
 | **[TableWork](https://tablework.io)** | three-product toolkit for freelancers and small teams, built by Sovyren Inc. Scheduling, bookkeeping, and product feedback — three standalone tools that work together under one account. (SaaS) | |
