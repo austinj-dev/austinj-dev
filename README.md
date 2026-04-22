@@ -23,7 +23,7 @@
 
 ---
 
-### Sovyren Portfolio
+### Sovyren Labs Portfolio
 
 | Product | Description |  |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 | **[agint](https://agint.app)** | Sovyren's proprietary AI model line, purpose-built for enterprise operations. | Launching Soon |
 | **[agints](https://agints.app)** | Sovyren's AI agent platform for enterprise operations, built on two core products: Colleagues and Studio. | Launching Soon |
 | **[TableWork](https://tablework.io)** | three-product toolkit for freelancers and small teams, built by Sovyren Inc. Scheduling, bookkeeping, and product feedback — three standalone tools that work together under one account. (SaaS) | |
-| **[Flux](https://useflux.online)** | The only diagram platform with a production-grade MCP server, 3D rendering, and GitHub-as-source-of-truth sync. Open-source engine. Team-ready SaaS. 14 diagram types. (SaaS) | Launching Soon |
+
 
 ---
 
