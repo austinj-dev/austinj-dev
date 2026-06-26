@@ -42,6 +42,8 @@ Architecting AI-engineered systems and scalable digital infrastructure. Sole arc
 | :--- | :--- |
 | **[Applied Engineering Skill](https://github.com/austinj-dev/Applied-Engineering-Skill)** | 9-stage planning methodology that produces 15–22 project documents so AI tools execute against specifications, not assumptions. |
 | **[QA Engineering / Systems QA Skill](https://github.com/austinj-dev/QA-Engineering_Systems-QA-Skill)** | Two-mode (Discovery / Fix) testing framework — OWASP Top 10 2025, WCAG 2.2 AA, STRIDE threat modeling, and production readiness verification. |
+| **[Marquee Skill](https://github.com/austinj-dev/Marquee)** | Autonomous brand film studio. Marquee turns a brand + product into finished, narrated, scored, motion-graphic films — in 16:9, 9:16, and 1:1 — with zero manual editing. |
+| **[Resume Engineer Skill](https://github.com/austinj-dev/Resume-Engineer-Skill)** | Professional resume creation skill for Claude Code. 8-stage methodology covering experience reframing, novice pattern elimination, metrics extraction, ATS optimization, career pivot support, and PDF generation. Turns rough experience into senior-level resume content. |
 | **[Qwen Code Agents Toolpack 2.0](https://github.com/austinj-dev/qwen-code-agents-toolpack-v2)** | Advisory + implementation agents toolpack for the Qwen Code CLI. |
 | **[Qwen Code Agents Toolpack 1.0](https://github.com/austinj-dev/qwen-code-agents-toolpack)** | Advisory agents toolpack for the Qwen Code CLI. |
 
